@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi!
+
+I'm Daniel, and I like OOP C++.
+I like good music and food, too.
